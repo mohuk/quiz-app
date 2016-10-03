@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"question": "Who is batman?",
+		"options": ["Clark Kent", "Bruce Wayne", "Peter Parker", "Scott Summers"],
+		"answer": "Bruce Wayne"
+	},
+	{
+		"id": 2,
+		"question": "Who is Superman?",
+		"options": ["Clark Kent", "Bruce Wayne", "Peter Parker", "Scott Summers"],
+		"answer": "Clark Kent"
+	}
+]
